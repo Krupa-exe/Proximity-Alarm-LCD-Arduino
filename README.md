@@ -56,17 +56,17 @@ O sistema opera com três zonas de distância bem definidas:
 
 ---
 
-## Código
+## 💻Código
 Verificar o arquivo: [SensordeProximidade.ino](SensordeProximidade.ino)
 
 ---
 
-## Contribuições
+## 🤝Contribuições
 
 Contribuições são bem-vindas!  
 
 ---
 
-## Licença
+## 📜Licença
 
 MIT License © João Krupa
