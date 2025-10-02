@@ -1,4 +1,4 @@
-# 🚦 Detector de Proximidade e Alarme Ultrassônico (HC-SR04 + LCD I2C)
+# 🚦 Detector de Proximidade e Alarme Ultrassônico
 
 Este projeto simula um sistema de alerta de proximidade utilizando um sensor ultrassônico **HC-SR04** para medir a distância. O feedback é dado por um sistema de zonas de alerta (LEDs), um alarme sonoro (Buzzer) e um display **LCD I2C** que informa a distância em tempo real e o status da zona.
 
