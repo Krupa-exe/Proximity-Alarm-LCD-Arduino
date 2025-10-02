@@ -41,10 +41,10 @@ O sistema opera com três zonas de distância bem definidas:
 
 ---
 ## 📚 Como Usar
-1. Instale a biblioteca LiquidCrystal I2C no Gerenciador de Bibliotecas do Arduino IDE.
-2. Confirme se o endereço do LCD no código (0x27) está correto para o seu módulo.
+1. Instale a biblioteca LiquidCrystal I2C no Gerenciador de Bibliotecas.
+2. Confirme se o endereço do LCD no código está correto para o seu módulo.
 3. Gire o potenciômetro no módulo LCD I2C até o texto aparecer.
-4. Carregue o Código: Conecte o Arduino e carregue o código no IDE.
+4. Conecte o Arduino e carregue o código no IDE.
 5. Mova objetos na frente do sensor para observar as mudanças nos LEDs e a atualização da distância no LCD.
 
 > Para simulação online: https://www.tinkercad.com/things/anZ6BU8i3uq-sensor-de-proximidade-com-alarme-e-lcd
